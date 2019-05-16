@@ -4,6 +4,7 @@ This was was born because although I did like the other Powershell Tools I didn'
 
 The basic idea of this tool was to have something that I can use or give to the help desk to pull computer information directly from the machine for troubleshooting, and things from Active Directory such as the Bitlocker Key and the LAPS Admin password. 
 
+[![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=DN6YB5L8EHSNJ)
 
 ## Basic Information page 
 
